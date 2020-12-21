@@ -37,7 +37,7 @@ for ll=1:length(lambda)
 
 end
 
-NN=numel(b_NN); %numero massimo di non zeri possibili
+NN=numel(b_NN); 
 GCV= RSS./(NN-df).^2;
 if crit==1
 [~, ind] = knee_pt(log10(GCV));
