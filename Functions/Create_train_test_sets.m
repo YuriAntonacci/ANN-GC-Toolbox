@@ -5,10 +5,10 @@ function [IN_train,OUT_train,IN_test,OUT_test]=Create_train_test_sets(INPUT,OUTP
 %       - train_p--> percentage of the observations for the training (ex 0.9)
 %       - stand---> standardization for the input/output matrices ('1' yes)
 %Output:
-%        - IN-train--> matrice di input per il train
-%        - OUT_train--> matrice di output per il train
-%        - IN_test--> matrice di input per il test
-%        - OUT_test--> matrice di output per il test
+%        - IN-train--> Matrix of inputs for the training
+%        - OUT_train--> Matrix of outputs for the training
+%        - IN_test--> Matrix of inputs for the testing procedure
+%        - OUT_test--> Matrix of outputs for the testing procedure
 %==========================================================================
 
 ind=randperm(size(OUTPUT,2));
