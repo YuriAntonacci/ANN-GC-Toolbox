@@ -1,5 +1,5 @@
 %%% Test_Oscillators - Analysis of unconditional GC on a ring of 32 chaotic
-%%% oscillators - Synchronizaion analalysis.
+%%% oscillators - Synchronization analysis.
 
 %%% load data
 load('top_row.mat');
