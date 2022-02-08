@@ -5,7 +5,7 @@ through Stochastic gradient descent l1 algorithm (SGD-l1). Then by exploiting
 the state (SS) models it is possible to compute conditional and unconditional
 Granger causality (GC) [1]-[2]-[3].
 
-[1]-Antonacci, Y.; Minati, L.; Faes L.; Pernice R.; Nollo G.; J.Toppi, A.Pietrabissa;
+[1]-**Antonacci, Y.**; Minati, L.; Faes L.; Pernice R.; Nollo G.; J.Toppi, A.Pietrabissa;
 Astolfi L.; Estimation of Granger causality through Artificial Neural Networks:
 applications to physiological systems and chaotic electronic oscillators, PeerJ
 Computer Science 2020, sub.
